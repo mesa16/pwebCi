@@ -1,0 +1,5 @@
++10 untuk tugas selesai
++5 untuk semua lagu dipanggil dari 1 controller
++10 untuk setiap function dalam controller
+
+-5 untuk konten sample template tersisa
